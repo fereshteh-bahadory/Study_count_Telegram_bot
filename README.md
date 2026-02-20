@@ -30,7 +30,7 @@ A Telegram bot built with Python to help users track their study hours and visua
 ```
 study-tracker-bot/
 │
-├── bot.py
+├── Study_count_bot.py
 ├── database.db
 ├── requirements.txt
 ├── README.md
@@ -48,7 +48,7 @@ pip install -r requirements.txt
 ## Run the Bot
 
 ```bash
-python study_count_bot.py
+python Study_count_bot.py
 ```
 
 ---
